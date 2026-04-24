@@ -22,7 +22,7 @@ class AppSensorColor:
 
     def setup_ui(self):
         # Titulo
-        tk.Label(self.root, text="Laboratorio de Reflectancia", font=("Arial", 16, "bold")).pack(pady=10)
+        tk.Label(self.root, text="Laboratorio de detección de color", font=("Arial", 16, "bold")).pack(pady=10)
         # Contenedor Principal
         main_frame = tk.Frame(self.root)
         main_frame.pack(pady=10, padx=20, fill="both", expand=True)
