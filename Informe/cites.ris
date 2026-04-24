@@ -1,0 +1,588 @@
+TY  - JOUR
+AB  - The light sensitive circuit elements, in line with the changes in the amount of light, produce electrical values such as current, voltage and resistance change. Thus, these elements are being used in light measurement, light control and light detection systems. In this research, the Phototransistor and LDR (light dependent resistor), which are commonly used in light detection systems, have been exposed to different lighting values in an indoor environment. Their electrical reaction values have been measured and sensitivity analysis has been conducted. In the light of the findings obtained, it has been seen that with 134.23 standard deviation rate Phototransistor has shown more light sensitivity than LDR.
+AN  - 133535522
+ID  - 133535522
+AU  - Özçelik, Mehmet Ali
+DB  - Applied Science & Technology Source
+DP  - EBSCOhost
+EP  - 549
+IS  - 2
+JO  - Karaelmas Science & Engineering Journal / Karaelmas Fen ve Mühendislik Dergisi
+KW  - Optical measurements
+KW  - Phototransistors
+KW  - Optical materials
+KW  - Optical radar
+KW  - Electric potential
+LA  - English
+SN  - 21464987
+SP  - 545
+TI  - The Analysis of the Optical Measurement Sensitivity of the Phototransistor and LDR Sensors.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=6a8d1b00-aa97-3ca4-acab-55ddc74ea6e4
+VL  - 7
+Y1  - 2017/07/01/2017
+ER  - 
+
+TY  - JOUR
+AB  - Herein, we report the successful preparation and characterization of platinum nanoparticles decorated carbon nanotubes. The Pt nanoparticles were deposited on the surfaces of carbon nanotubes (CNTs) using RF magnetron sputtering technique under inert gas atmosphere. The prepared Pt nanoparticles decorated CNTs were characterized in detail using several techniques in terms of their morphological, structural and compositional properties. Further, the Pt-decorated CNT nanocomposites were used as efficient redox mediators for the fabrication of 2-nitrophenol chemical sensor. The fabricated 2-nitrophenol chemical sensor exhibited a very high-sensitivity of ~395.234 μA mM −1 cm −2 and a low detection limit of 2.19 mM. The observed linear dynamic range (LDR) of the fabricated sensor was 0.156–2.5 mM with a regression coefficient of ~0.99273. The observed results demonstrate that the Pt nanoparticles decorated CNTs are efficient electron mediator to fabricate highly sensitive chemical sensors.
+AN  - 113953715
+ID  - 113953715
+AU  - Umar, Ahmad
+AU  - Kim, SangHoon
+AU  - Kumar, Rajesh
+AU  - Algarni, Hamed
+AU  - Al-Assiri, M.S.
+DB  - Academic Search Ultimate
+DO  - 10.1016/j.ceramint.2016.03.032
+DP  - EBSCOhost
+EP  - 9263
+IS  - 7
+JO  - Ceramics International
+KW  - Platinum nanoparticles
+KW  - Carbon nanotubes
+KW  - Nitrophenols
+KW  - Chemical detectors
+KW  - Surface chemistry
+KW  - Magnetron sputtering
+KW  - Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing
+KW  - Other basic organic chemical manufacturing
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 0272-8842
+SP  - 9257
+TI  - Platinum nanoparticles decorated carbon nanotubes for highly sensitive 2-nitrophenol chemical sensor.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=e06b32e1-b5a0-3b20-a571-6b17bfc458a9
+VL  - 42
+Y1  - 2016/05/15/May2016
+ER  - 
+
+TY  - JOUR
+AB  - Abstract: This paper presents the design, modeling and testing of an active single axis solar tracker. The compactness of the proposed solar tracker enables it to be mounted onto the wall. The solar irradiance is detected by two light-dependent resistor (LDR) sensors that are located on the surface of the photovoltaic (PV) panel. The smart tracker system operates at different modes to provide flexibility to accommodate different weather conditions and preference for different users. The PV panel rotates automatically based on the sun irradiance during the day while at night; the system is in ‘sleep’ mode in order to reduce the energy consumption. A computer model of the standalone solar tracker system is first modeled using MATLAB™/Simulink™. The efficiency over the fixed solar panel, the power generated and the types of PV systems to achieve the required level of efficiency can be determined before actual implementation. The experimental testing shows some agreement with the simulation results.
+AN  - 61173319
+ID  - 61173319
+AU  - Chin, C.S.
+AU  - Babu, A.
+AU  - McBride, W.
+DB  - Academic Search Ultimate
+DO  - 10.1016/j.renene.2011.03.026
+DP  - EBSCOhost
+EP  - 3090
+IS  - 11
+JO  - Renewable Energy: An International Journal
+KW  - Solar cell design
+KW  - Photovoltaic power systems
+KW  - Computer software
+KW  - Energy consumption
+KW  - Microcontrollers
+KW  - Testing
+KW  - Computer simulation
+KW  - Detectors
+KW  - Weather
+KW  - Computer and software stores
+KW  - Computer, computer peripheral and pre-packaged software merchant wholesalers
+KW  - Software publishers (except video game publishers)
+KW  - Computer and Computer Peripheral Equipment and Software Merchant Wholesalers
+KW  - Power and Communication Line and Related Structures Construction
+KW  - Other Electronic Parts and Equipment Merchant Wholesalers
+KW  - Electronic components, navigational and communications equipment and supplies merchant wholesalers
+KW  - Semiconductor and other electronic component manufacturing
+KW  - Semiconductor and Related Device Manufacturing
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 0960-1481
+SP  - 3075
+TI  - Design, modeling and testing of a standalone single axis active solar tracker using MATLAB/Simulink
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=f8caf6ca-71b1-3be8-8561-9f6baf330a08
+VL  - 36
+Y1  - 2011/11/01/Nov2011
+ER  - 
+
+TY  - JOUR
+AB  - Una iluminación adecuada ayuda a prevenir accidentes, reducir problemas de salud, mejorar el rendimiento laboral y la concentración. En diversas áreas de trabajo, esparcimiento y vialidades la iluminación se mide habitualmente de forma manual para saber si cumple con las normas. Este artículo presenta la implementación de un nodo sensor inalámbrico (compacto, simple y de bajo costo) que mide periódicamente la intensidad de luz en un área específica y transmite su valor de forma inalámbrica. Con N nodos se puede crear una red inalámbrica de sensores para monitoreo y control autónomo de iluminación en diversas áreas de aplicación.
+AN  - 117276437
+ID  - 117276437
+AU  - de la Hoya, Ernesto Sifuentes
+AU  - González Landaeta, Rafael
+AU  - Bravo Martínez, Gabriel
+AU  - Moreno Hernández, Reyna G.
+DB  - Fuente Académica Plus
+DP  - EBSCOhost
+EP  - 98
+IS  - 56
+JO  - CULCyT: Cultura Científica y Tecnológica
+LA  - spa
+PB  - Cultura Cientifica y Tecnologia
+SN  - 2007-0411
+SP  - 89
+TI  - NODO SENSOR INALÁMBRICO PARA MEDIR ILUMINACIÓN.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=589e4f0d-420e-3a79-9b38-21f5592f837c
+VL  - 12
+Y1  - 2015/05/01/may-ago2015
+ER  - 
+
+TY  - JOUR
+AB  - In this paper, The researchers present the conception, the realization and the experimentation of a photovoltaic (PV) system provided with a sun tracker reliable and low cost operating at dual axis. The tracker's role is to orient the PV generator, whose weight is about 9 Kg, perpendicular to the sun with very good accuracy. This tracking is based on the use of four LDR sensors, which detect the intensity of light scattered by a sun processing unit, from command and control (UTCC), which manages all of the sun tracking tasks (the end detection of parcours, regulation of the power supplied by the PV panels (Command MPPT), ...). The results obtained show a significant improvement of the energy produced, compared to conventional PV installations where generators are fixed and oriented south at a tilt 45°. During a day of operation, improvement could reach 41% and consumption of the tracking does not exceed 0.55% of the energy production produced by the PV generator (an improvement of 5% compared to existing trackers).
+AN  - 116507846
+ID  - 116507846
+AU  - GAAMOUCHE, R.
+AU  - LAMKADDEM, A.
+AU  - TALBI, S.
+AU  - KASSMI, K.
+DB  - Environment Complete
+DO  - 10.21622/RESD.2016.02.1.020
+DP  - EBSCOhost
+EP  - 29
+IS  - 1
+JO  - Renewable Energy & Sustainable Development
+KW  - Photovoltaic power systems
+KW  - Motor and Generator Manufacturing
+KW  - Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers
+KW  - All other building equipment contractors
+KW  - Electrical wiring and construction supplies merchant wholesalers
+KW  - Other Building Equipment Contractors
+KW  - Power and Communication Line and Related Structures Construction
+KW  - Microcontrollers
+KW  - Energy consumption research
+KW  - Detectors
+KW  - Electric generators
+LA  - eng
+PB  - Arab Academy for Science, Technology & Maritime Transport
+SN  - 2356-8518
+SP  - 20
+TI  - Conception and Realization of a PV System Provided with a Sun Tracker Operating at Dual Axis.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=e6e27c75-18a9-352d-9947-86efad5e3f8e
+VL  - 2
+Y1  - 2016/06/01/Jun2016
+ER  - 
+
+TY  - JOUR
+AB  - Abstract: The effects of hyperflexion on the welfare of dressage horses have been debated. This study aimed to investigate acute stress responses of dressage horses ridden in three different Head-and-Neck-positions (HNPs). Fifteen dressage horses were ridden by their usual rider in a standardised 10-min dressage programme in either the competition frame (CF), hyperflexion (“Low-Deep-and-Round”; LDR) or a looser frame (LF) in a balanced order on three separate test days. Heart rate (HR), heart rate variability parameters (HRV), behaviour and rein tension were recorded during the test. Salivary cortisol concentrations were measured 60min before and 0, 5, 15 and 30min after the test. Rein tension was significantly lower in LF and did not differ between CF and LDR; however approx. 15% of recordings in CF and LDR were above the sensor detection limit of 5kg. The horses had significantly higher cortisol concentrations directly after LDR compared to LF. In addition, the horses showed more distinctive head movements, including head waving, during LDR. There were no significant treatment effects on HR and HRV. In conclusion, the results indicate that LDR may be more stressful to these horses during riding.
+AN  - 95224496
+ID  - 95224496
+AU  - Christensen, J.W.
+AU  - Beekmans, M.
+AU  - van Dalum, M.
+AU  - VanDierendonck, M.
+DB  - Academic Search Ultimate
+DO  - 10.1016/j.physbeh.2014.01.024
+DP  - EBSCOhost
+EP  - 45
+JO  - Physiology & Behavior
+KW  - Horse physiology
+KW  - Dressage competitions
+KW  - Horses
+KW  - Animal behavior
+KW  - Hydrocortisone
+KW  - Heart beat measurement
+KW  - Body movement
+KW  - Live animal merchant wholesalers
+KW  - Other Farm Product Raw Material Merchant Wholesalers
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 0031-9384
+SP  - 39
+TI  - Effects of hyperflexion on acute stress responses in ridden dressage horses.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=05cbbab2-c93e-349e-959b-e22a82f3ad94
+VL  - 128
+Y1  - 2014/04/10/Apr2014
+ER  - 
+
+TY  - JOUR
+AB  - Detailed analysis of microcontroller (µC)-based smart dual-axis automatic solar tracking system utilizable for different purpose is presented in this article. Working of the proposed smart tracking system is based on the automatic rotation of photovoltaic (PV) panel depending on the intensity of sunlight. It will help in maintaining the alignment of PV panels with the sunlight to obtain maximum solar power at any instance. Intensity of sunlight on a particular alignment of solar PV panel varies throughout the day. As the intensity of light on PV panel decreases, the proposed smart tracking system has the intelligence to automatically redirect the panel alignment to get maximum intensity of light. Four light-dependent resistor (LDR) sensors are placed on the surface of the PV panel to detect the intensity of light. Two servomotors are employed in the backside of PV panel system to align the panel with maximum luminous intensity. Design and construction of the proposed tracking system is presented to measure the efficiency over the fixed PV panel. Experimental results indicate that the power output of the PV system, using the proposed tracking system, is increased up to 19.73% when compared to the traditional fixed PV panel. The efficiency of the proposed design is considerably higher and comparable to the existing design which has an average efficiency of around 12-15%.
+AN  - 111940804
+ID  - 111940804
+AU  - Das, Soumya
+AU  - Chakraborty, Suprava
+AU  - Sadhu, Pradip K.
+AU  - Sastry, Oruganti Sankara
+DB  - Academic Search Ultimate
+DO  - 10.1002/ese3.102
+DP  - EBSCOhost
+EP  - 564
+IS  - 6
+JO  - Energy Science & Engineering
+KW  - Microcontroller specifications
+KW  - Photovoltaic cells
+KW  - Solar panels
+KW  - Surface discharges (Electricity)
+KW  - Tracking control systems
+KW  - Electrical Contractors and Other Wiring Installation Contractors
+KW  - Semiconductor and Related Device Manufacturing
+KW  - Plumbing, heating and air-conditioning equipment and supplies merchant wholesalers
+LA  - eng
+PB  - Wiley-Blackwell
+SN  - 2050-0505
+SP  - 558
+TI  - Design and experimental execution of a microcontroller (µC)-based smart dual-axis automatic solar tracking system.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=36edcf3a-d6a2-38a3-bfd0-c151c2e17f3b
+VL  - 3
+Y1  - 2015/11/01/Nov2015
+ER  - 
+
+TY  - JOUR
+AB  - The need for knowledge of coefficient of friction of agricultural materials on various surfaces has long been recognized by engineers concerned with rational design of grain bins, silos and other storage structures. In the design of agricultural machinery, however, the need for this information has been recognized rather recently. Not finding this information in any handbook or published data, it became necessary to set up a friction test apparatus and obtain the information needed. We know that the internal friction angle metering devices in our laboratories have the low accuracy, thus we decided to design an automatic internal friction angle metering device with high accuracy which the tangent of this angle is equal to the coefficient of friction that be measured and displayed. This device is made up of one frame, three hinges, one electromotor with gearbox, one DC Adaptor, one wooden plate that can be changed, acceleration measuring sensor, laser transmitter and LDR for detection of movement, electrical circuit, Microcontroller and monitor for display of the angle and other devices for moving of the wooden plate and carrying of the materials.
+AN  - 189403867
+ID  - 189403867
+AU  - Lorestani, Ali Nejat
+AU  - Rabani, Hekmat
+AU  - Khazaei, Youcef
+DB  - Academic Search Ultimate
+DP  - EBSCOhost
+EP  - 124
+IS  - 1
+JO  - Agricultural Engineering International: CIGR Journal
+KW  - Friction measurements
+KW  - Automatic test equipment
+KW  - Friction velocity
+KW  - Internal friction
+KW  - Microcontrollers
+KW  - Measurement
+KW  - Agriculture
+KW  - Motor drives (Electric motors)
+LA  - eng
+PB  - International Commission of Agricultural Engineering
+SN  - 1682-1130
+SP  - 120
+TI  - Design and construction of an automatic coefficient of friction measuring device.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=55f83d7c-6ce9-3d23-b273-c133244bdd9b
+VL  - 14
+Y1  - 2012/03/01/Mar2012
+ER  - 
+
+TY  - JOUR
+AB  - In this paper, the authors have proposed a low cost solar powered automatic head light controller depending upon the traffic density on the roads. General automobiles have been provided with dual purpose headlights in the dark conditions where the scene is not visible. The low beam light and high beam light are used for different conditions or parameters which affect travelling on road. A 3D Mechanical Design has been done to check the feasibility of the solar panel, controller to accommodate on the stand, then fabricated the exact design with mild steel bars as a support in the form of a stand to the controller. With the help of LDR sensor circuit and dim and brightness controller unit they have successfully tested the unit. Even ultrasonic sensors are also used to detect the objects and activate the controller. At last the equipment is one of the low cost solar powered automatic controller.
+AN  - 103591561
+ID  - 103591561
+AU  - KEERTHI, N.
+AU  - VENKATA AJAY KUMAR. G
+AU  - DEEPTHI, N.
+DB  - Applied Science & Technology Source
+DO  - 10.26634/jme.5.2.3245
+DP  - EBSCOhost
+EP  - 5
+IS  - 2
+JO  - i-Manager's Journal on Mechanical Engineering
+KW  - Fabrication (Manufacturing)
+KW  - Electric controllers
+KW  - Radiance
+KW  - Low dose rate brachytherapy
+KW  - Automobiles
+KW  - Automobile and Other Motor Vehicle Merchant Wholesalers
+KW  - Automotive Body, Paint, and Interior Repair and Maintenance
+KW  - Automobile Manufacturing
+KW  - New Car Dealers
+KW  - Automobile and light-duty motor vehicle manufacturing
+KW  - All Other Automotive Repair and Maintenance
+KW  - New and used automobile and light-duty truck merchant wholesalers
+LA  - English
+SN  - 22309055
+SP  - 1
+TI  - DESIGN AND FABRICATION OF SOLAR POWERED AUTOMATIC HEADLIGHT BRIGHTNESS CONTROLLER.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=c281503e-a5c1-3c9d-9b3d-80c92c15dd50
+VL  - 5
+Y1  - 2015/02/01/Feb-Apr2015
+ER  - 
+
+TY  - JOUR
+AB  - A very simple and low cost reflectometer, for colorimetric diffuse reflectance measurements is described. The proposed instrument uses a light dependent resistor (LDR), as a sensor, and a light emitter diode (LED), as light source. The performance of the device was compared with that of a commercial instrument, measuring the reflectance of the Pantone<sup>®</sup> Process Black Uncoated Palette. The quantitative analysis of nickel, in a catalyst, using dimethylglyoxime as colorimetric reagent, was also used to test the device. The observed precision was about 6% (R.S.D.). These results were compared with those obtained by the gravimetric method using the same reaction, through the statistical Student’s t-test procedure. A complete agreement was observed. The good quality of all the obtained results allows the recommendation of the instrument for diffuse reflectance measurements including quantitative analytical procedures.
+AN  - 8548727
+ID  - 8548727
+AU  - Matias, Francisco A.A.
+AU  - Vila, Marta M.D.C.
+AU  - Tubino, Matthieu
+DB  - Academic Search Ultimate
+DO  - 10.1016/S0925-4005(02)00309-X
+DP  - EBSCOhost
+IS  - 1
+JO  - Sensors & Actuators B: Chemical
+KW  - Reflectometer
+KW  - Colorimetric analysis
+KW  - Light emitting diodes
+KW  - Semiconductor and other electronic component manufacturing
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 0925-4005
+SP  - 60
+TI  - A simple device for quantitative colorimetric diffuse reflectance measurements
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=fc10fc59-9afc-36de-93fc-212b534f6c6a
+VL  - 88
+Y1  - 2003/01/01/Jan2003
+ER  - 
+
+TY  - JOUR
+AB  - An experimental study was performed to investigate the effect of using a continuous operation two-axes tracking on the solar heat energy collected. This heat-collection sun tracking which LDR (light dependent resistor) sensors installed on the Fersnel lens was used to control the tracking path of the sun with programming method of control with a closed loop system. The control hardware was connected to a computer through Zigbee wireless module and it also can monitor the whole tracking process information on a computer screen. An experimental study was performed to investigate the effect of using two-axes tracking on the solar heat energy collected. The results indicate that sun tracking systems are being increasingly employed to enhance the efficiency of heat collection by polar-axis tracking of the sun. Besides, the heating power was also measured by designed power measurement module at the different focal length of Fresnel lens, and the design of shadow mask of LDR sensors is an important factor for solar photothermal applications. Moreover, the results also indicated that the best time to obtain the largest solar irradiation power is during 11:00 -13:00 in Taiwan.
+AN  - 95032055
+ID  - 95032055
+AU  - Tsung-Chieh Cheng
+AU  - Wei-Cheng Hung
+AU  - Te-Hua Fang
+DB  - Academic Search Ultimate
+DO  - 10.1155/2013/803457
+DP  - EBSCOhost
+EP  - 7
+JO  - International Journal of Photoenergy
+KW  - Solar collectors
+KW  - Electric resistors
+KW  - ZigBee
+KW  - Solar radiation
+KW  - Fresnel lenses
+KW  - Solar heating
+KW  - Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing
+KW  - Other Electronic Parts and Equipment Merchant Wholesalers
+KW  - Electronic components, navigational and communications equipment and supplies merchant wholesalers
+KW  - Plumbing, Heating, and Air-Conditioning Contractors
+LA  - eng
+PB  - Wiley-Blackwell
+SN  - 1110-662X
+SP  - 1
+TI  - Two-Axis Solar Heat Collection Tracker System for Solar Thermal Applications.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=39af8045-4b30-376a-951a-309cd2e22e69
+Y1  - 2013/01/01/2013
+ER  - 
+
+TY  - JOUR
+AB  - The design of a didactical small scale "green" house and its power production systems has been previously presented in [1]. As power generation is one of the challenges in Sustainable Development, some scaled accessories have been included on house surroundings. In particular, a small scale simplified solar tracking analogue system based on LDR sensors, has been designed and installed [2]. A mixed SPICE modelling of the system, including geometrical, optical, electronic linear and nonlinear aspects has been built. This new paper focuses on effects of Light Dependant Resistor mismatching, and impact of non-linearity on the solar tracking performances. Firstly, the principle of tracking and its SPICE modelling are shortly described; Secondly, impacts of each imperfection are detailed and simulated. Finally, impacts are quantified and discussed before conclusion.
+AN  - 108556595
+ID  - 108556595
+AU  - Dondon, Philippe
+AU  - Miron, Ecaterina-Liliana
+DB  - Academic Search Ultimate
+DP  - EBSCOhost
+EP  - 330
+JO  - Proceedings of the Scientific Conference AFASES
+KW  - Photoelectric cells
+KW  - Tracking control systems
+KW  - Solar radiation
+KW  - Nonlinear theories
+KW  - Sustainable development
+KW  - Simulation Program with Integrated Circuit Emphasis
+KW  - Semiconductor and Related Device Manufacturing
+KW  - Administration of General Economic Programs
+LA  - eng
+PB  - Henri Coanda Air Force Academy
+SP  - 321
+TI  - EFFECT OF LIGHT DEPENDANT RESISTOR MISMATCHING AND IMPACT OF NON LINEARITY IN A SMALL SCALE SOLAR TRACKING SYSTEM.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=b2696215-acf4-3a2f-9d0f-71b871f1abb8
+VL  - 2
+Y1  - 2015/05/02/May2015
+ER  - 
+
+TY  - JOUR
+AB  - This paper proposes a setup for in-line measurement of residence time distribution (RTD) curves during extrusion. The detection system is composed of a slit die with transparent borosilicate glass windows fixed at the extruder exit, an optical arrangement with an incandescent light microbulb with fixed luminescence, and a Light Dependent Resistor (LDE) photocell of CdS. As the tracer passes through the light path, the reduction in the transmitted light intensity is followed by changes in the voltage induced by the photocell to an electric circuit. The signal is collected by an external interface and sent to a computer. Software acquires the data, does all calculations, and presents all curves and calculated variables to the monitor. The validation of the system was done by checking for data reproducibility and linearity 'with tracer concentration. The response of the LDR sensor with respect to the concentration of the tracer was calibrated using a set of slight dark film, obtaining a logarithmic relationship. Thus, the signal enhances any disturbance, if present, particularly in the tail-region of the curves. Measurements were taken from a Werner-Pfleiderer ZSK 30 twin-screw extruder equipped with K-Tron gravimetric feeders operating with various screw speeds, feeding rates and screw configurations. In this last case, the presence of kneading elements was taken into account. Reprinted by permission of the publisher.
+AN  - 500849272
+ID  - 500849272
+AU  - Mélo, Tomás Jeferson A.
+AU  - Canevarolo, Sebastião V.
+DB  - Applied Science & Technology Source
+DO  - 10.1002/pen.10938
+DP  - EBSCOhost
+EP  - 181
+IS  - 1
+JO  - Polymer Engineering & Science
+KW  - Plastic extrusion
+KW  - Mathematical models
+KW  - Extrusion process
+KW  - Polymers
+LA  - English
+SN  - 00323888
+SP  - 170
+TI  - An optical device to measure in-line residence time distribution curves during extrusion.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=4bf174f9-872a-3b27-9bf7-f897940dd96d
+VL  - 42
+Y1  - 2002/01/01/January 2002
+ER  - 
+
+TY  - GEN
+AB  - The article offers information on an automatic light sensitive circuit that is powered by AA batteries and uses a light-dependent-resistor (LDR) as its main sensor which gradually becomes brighter when its environment gets dark.
+AN  - 111937820
+ID  - 111937820
+AU  - Chau Tran
+DB  - Academic Search Ultimate
+DP  - EBSCOhost
+EP  - 22
+T2  - EDN Europe
+KW  - Detector circuits
+KW  - Lighting
+KW  - Other Lighting Equipment Manufacturing
+LA  - eng
+PB  - United Business Media
+SN  - 1534-5483
+SP  - 21
+TI  - LOW-POWER AMBIENT LIGHT SENSING LED DRIVER, WITH HIBERNATE MODE.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=72ac1646-9095-30ec-8298-6d861b1e6737
+Y1  - 2015/12/01/Dec2015
+ER  - 
+
+TY  - JOUR
+AB  - Abstract: A simple and low cost reflectometer for resolving binary and ternary mixtures of some food dyes is described. The proposed device uses an array of five light emitting diodes (LEDs) arranged in spherical mode as light source, is combined with a light dependent resistor (LDR) in center, as a sensor. The described method was applied for the determination of Tartrazine, Quinoline Yellow, Sunset Yellow, Carmoisine, and Brilliant Blue in synthetic mixtures as well as commercial food product samples. The method was validated against a standard HPLC method. The results obtained employing the proposed method were in a good agreement with those of HPLC method, indicating that the method is accurate, precise, reproducible, and could be utilized directly to the routine analysis of the food samples.
+AN  - 48402581
+ID  - 48402581
+AU  - Sorouraddin, Mohammad-Hossein
+AU  - Saadati, Masoud
+DB  - Academic Search Ultimate
+DO  - 10.1016/j.snb.2009.12.036
+DP  - EBSCOhost
+EP  - 372
+IS  - 1
+JO  - Sensors & Actuators B: Chemical
+KW  - Coloring matter in food
+KW  - Microfabrication
+KW  - Reflectometer
+KW  - Mixtures
+KW  - Light emitting diodes
+KW  - High performance liquid chromatography
+KW  - Chemical detectors
+KW  - Reflectance spectroscopy
+KW  - Synthetic Dye and Pigment Manufacturing
+KW  - Spice and Extract Manufacturing
+KW  - Seasoning and dressing manufacturing
+KW  - Semiconductor and other electronic component manufacturing
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 0925-4005
+SP  - 367
+TI  - A simple fabrication of portable diffuse reflectometer for simultaneous analysis of common food dyes
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=8ae7e576-c50a-3a53-bfa7-2789db91c09a
+VL  - 145
+Y1  - 2010/03/04/Mar2010
+ER  - 
+
+TY  - JOUR
+AB  - This paper focuses on the development of a robotic hand having fourteen degree-of-freedom (DOF) to trigger finger movement. The design combination and integration of fingers will produce a prosthetic hand which is approximately the size of a human hand. The prototype hand comprised of servo motors located at the palm to drive the pulley and belt mechanism connected to each of the finger joints enabling independent flexion finger link movement. A lightweight Light Dependent Resistor (LDR) sensor is positioned at the middle of the palm is to close around objects. The prosthetic provides three different controls of finger movement through the use of a Graphical User Interface (GUI) with computer interface, program and manually controlled and autonomous movement provided by a micro-controller of this robotic hand. The prototype hand model was developed using rapid prototype technique in order to get the best part quality and reduction in weight. The link parameter analysis to determine the end tip position of the robotic finger at certain rotation angle was computed. Experimental work has been carried out on the prototype robotic hand to ensure the entire rotation angle and movement of each link is functioning as desired.
+AN  - 83147323
+ID  - 83147323
+AU  - Bahari, M.
+AU  - Jaffar, Ahmed
+AU  - Low, Cheng
+AU  - Jaafar, Roseleena
+AU  - Roese, Kolja
+AU  - Yussof, Hanafiah
+DB  - Applied Science & Technology Source
+DO  - 10.1007/s12369-011-0133-8
+DP  - EBSCOhost
+EP  - 66
+JO  - International Journal of Social Robotics
+KW  - Systems design
+KW  - Artificial hands
+KW  - Degrees of freedom
+KW  - Graphical user interfaces
+KW  - Computer interfaces
+KW  - Finger joint
+LA  - English
+SN  - 18754791
+SP  - 59
+TI  - Design and Development of a Multifingered Prosthetic Hand.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=ddb1a8c9-68f6-39c6-99f0-1c847a450a3a
+VL  - 4
+Y1  - 2012/11/02/Nov2012 Supplement
+ER  - 
+
+TY  - JOUR
+AN  - 124044638
+ID  - 124044638
+AU  - Woulfe, P.
+AU  - O'Keeffe, S.
+AU  - Sullivan, F.J.
+DB  - Academic Search Ultimate
+DO  - 10.1016/S0167-8140(17)32162-X
+DP  - EBSCOhost
+EP  - S989
+JO  - Radiotherapy & Oncology
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 0167-8140
+SP  - S988
+TI  - EP-1800: Optical Fibre Luminescence Sensor for Real-time LDR Brachytherapy Dosimetry.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=10754115-1193-3f53-a021-5fd38aca2ded
+VL  - 123
+Y1  - 2017/05/02/May2017 Supplement 1
+ER  - 
+
+TY  - JOUR
+AB  - We propose a novel portable photo voltaic electric generator capable of tracking sunlight in all directions essential for disaster areas. Such occurrence often results in disruptions of public services especially power grids. The system prototype consists of a 10W solar panels capable of two axes motion of 120° horizontal and 360° azimuth driven by ATMega8535 micro controller. Two-axis movement is based on two types of sensors capable of 360° directional movements based on the HMC5883 compass sensor. This compass sensor panel is also configured to always directs towards the sun so that if the direction of the base plate was changed, it will automatically direct the panel to the direction of the sun; while 120° vertical movement based on three pieces of LDR (Light Dependent Resistor) as sun sensors. Thus the amount of light received and hence the power output are maximized.
+AN  - 130528537
+ID  - 130528537
+AU  - Riyanto, Indra
+AU  - Suparmoko
+AU  - Octaviano, Ade
+AU  - Santoso, Budi
+DB  - Applied Science & Technology Source
+DO  - 10.5013/IJSSST.a.19.01.09
+DP  - EBSCOhost
+EP  - 5
+IS  - 1
+JO  - International Journal of Simulation: Systems, Science & Technology
+KW  - Photovoltaic power systems
+KW  - Electric power distribution grids
+KW  - Power and Communication Line and Related Structures Construction
+LA  - English
+SN  - 14738031
+SP  - 1
+TI  - A Portable Photovoltaic Powerplant for Emergency Electrical Power Supply in Disaster Affected Areas.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=37afd0ed-c6fd-353f-b009-17089d21cad4
+VL  - 19
+Y1  - 2018/02/01/Feb2018
+ER  - 
+
+TY  - JOUR
+AB  - The dual threats of energy depletion and global warming place the development of methods for harnessing renewable energy resources at the center of public interest. Solar energy is one of the most promising renewable energy resources. Sun trackers can substantially improve the electricity production of a photovoltaic (PV) system. This paper proposes a novel design of a dual-axis solar tracking PV system which utilizes the feedback control theory along with a four-quadrant light dependent resistor (LDR) sensor and simple electronic circuits to provide robust system performance. The proposed system uses a unique dual-axis AC motor and a stand-alone PV inverter to accomplish solar tracking. The control implementation is a technical innovation that is a simple and effective design. In addition, a scaled-down laboratory prototype is constructed to verify the feasibility of the scheme. The effectiveness of the Sun tracker is confirmed experimentally. To conclude, the results of this study may serve as valuable references for future solar energy applications.
+AN  - 86666313
+ID  - 86666313
+AU  - Jing-Min Wang
+AU  - Chia-Liang Lu
+DB  - Academic Search Ultimate
+DO  - 10.3390/s130303157
+DP  - EBSCOhost
+EP  - 3168
+IS  - 3
+JO  - Sensors (14248220)
+KW  - Global warming
+KW  - Renewable energy sources
+KW  - Solar energy
+KW  - Photodetectors
+KW  - Photovoltaic cells
+KW  - Semiconductor and Related Device Manufacturing
+KW  - Electrical Contractors and Other Wiring Installation Contractors
+KW  - Solar Electric Power Generation
+LA  - eng
+PB  - MDPI
+SN  - 1424-8220
+SP  - 3157
+TI  - Design and Implementation of a Sun Tracker with a Dual-Axis Single Motor for an Optical Sensor-Based Photovoltaic System.
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=4787c946-b243-3706-ad2f-c227b15eeb5c
+VL  - 13
+Y1  - 2013/03/01/Mar2013
+ER  - 
+
+TY  - JOUR
+AB  - Abstract: Microalgae blooms in commercial fish production ponds resulting in a deficit in the overall oxygen budget have posed serious challenges to aquaculture industry. In this study, we demonstrate the feasibility of rapid microalgae separation in real-time from fishpond water by magnetophoresis. By relying on the magneto-shape anisotropy of rod-liked iron oxide magnetic nanoparticle (IONPs), overall separation efficiency of microalgae cells up to 90% can be achieved in less than 3min. The IONPs employed, with a saturation magnetization at 113.8emu/g, are surface functionalized with cationic polyelectrolyte that promotes the attachment of these particles onto microalgae cells via electrostatic interaction. Kinetic of magnetophoretic separation process was monitored by suspension opacity measurements based upon a custom built light dependent resistor (LDR setup) sensor. Whereas, the overall separation efficiency of microalgae cells is determined spectrophotometrically at 685nm wavelength. Performance of both high gradient magnetic separation (HGMS) with ∇B >1000T/m and low gradient magnetic separation (LGMS) with ∇B <80T/m were tested with varying particle concentration (50–500mg/l) and the results obtained were interpreted in term of cooperative magnetophoresis theory. Cost analysis was conducted to verify the feasibility for large scale implementation of LGMS system with the cost involved at $0.13 for every one meter cube of treated fishpond water.
+AN  - 83655686
+ID  - 83655686
+AU  - Toh, Pey Yi
+AU  - Yeap, Swee Pin
+AU  - Kong, Li Peng
+AU  - Ng, Bee Wah
+AU  - Chan, Derek Juinn Chieh
+AU  - Ahmad, Abdul Latif
+AU  - Lim, Jit Kang
+DB  - Academic Search Ultimate
+DO  - 10.1016/j.cej.2012.09.051
+DP  - EBSCOhost
+EP  - 30
+JO  - Chemical Engineering Journal
+KW  - Microalgae
+KW  - Fish ponds
+KW  - Water
+KW  - Magnetic separation
+KW  - Aquaculture
+KW  - Polyelectrolytes
+KW  - Feasibility studies
+KW  - Aquaculture
+LA  - eng
+PB  - Elsevier B.V.
+SN  - 1385-8947
+SP  - 22
+TI  - Magnetophoretic removal of microalgae from fishpond water: Feasibility of high gradient and low gradient magnetic separation
+UR  - https://researchs.unillanos.elogim.com/linkprocessor/plink?id=45406ac3-a9e5-32e1-9b8e-ab5f4500dbc4
+VL  - 211-212
+Y1  - 2012/11/15/Nov2012
+ER  - 
