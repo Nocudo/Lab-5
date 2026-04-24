@@ -42,13 +42,13 @@ Lectura_R,Lectura_G,Lectura_B,Color
 250,280,310,Negro
 270,300,330,Negro
 230,260,290,Negro
-0,0,0,Negro
-0,0,0,Negro
-0,0,0,Negro
 189,321,42,Negro
 0,315,0,Negro
 200,48,95,Negro
-294,32,0,Negro
+98,32,0,Negro
+15,315,20,Negro
+210,40,90,Negro
+100,32,0,Negro
 3500,3300,800,Amarillo
 3550,3350,820,Amarillo
 3480,3250,780,Amarillo
